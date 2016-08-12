@@ -1,0 +1,16 @@
+plugin:
+    name: 'dt.notes::lang.plugin.name'
+    description: 'dt.notes::lang.plugin.description'
+    author: dt
+    icon: oc-icon-key
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Keynote
+        url: dt/notes/keynote
+        icon: icon-key
+        sideMenu:
+            side-menu-item:
+                label: Sections
+                url: dt/notes/section
+                icon: icon-sitemap

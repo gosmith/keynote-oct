@@ -1,0 +1,12 @@
+columns:
+    number:
+        label: 'Spec Number'
+        type: text
+        searchable: true
+        sortable: true
+        width: '100'
+    name:
+        label: 'Spec Name'
+        type: text
+        searchable: true
+        sortable: true

@@ -1,0 +1,11 @@
+name: Section
+modelClass: Dt\Notes\Models\Section
+form: $/dt/notes/models/section/fields.yaml
+defaultRedirect: dt/notes/section
+create:
+    redirect: 'dt/notes/section/update/:id'
+    redirectClose: dt/notes/section
+update:
+    redirect: dt/notes/section
+    redirectClose: dt/notes/section
+preview: {  }

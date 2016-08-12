@@ -1,0 +1,17 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table dt_notes_keynotes'
+    - builder_table_create_dt_notes_keynotes.php
+1.0.3:
+    - 'Created table dt_notes_sections'
+    - builder_table_create_dt_notes_sections.php
+1.0.4:
+    - 'Created table dt_notes_sections'
+    - builder_table_create_dt_notes_sections_2.php
+1.0.5:
+    - 'Created table dt_notes_keynotes'
+    - builder_table_create_dt_notes_keynotes_2.php
+1.0.6:
+    - 'Updated table dt_notes_sections'
+    - builder_table_update_dt_notes_sections.php

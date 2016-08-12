@@ -1,0 +1,4 @@
+title: Keynote
+modelClass: Dt\Notes\Models\Keynote
+toolbar:
+    buttons: reorder_toolbar

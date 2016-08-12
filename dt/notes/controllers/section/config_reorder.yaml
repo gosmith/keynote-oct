@@ -1,0 +1,4 @@
+title: Section
+modelClass: Dt\Notes\Models\Section
+toolbar:
+    buttons: reorder_toolbar

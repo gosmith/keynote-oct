@@ -1,0 +1,12 @@
+columns:
+    number:
+        label: 'Keynote Number'
+        type: text
+        searchable: true
+        sortable: true
+        width: '100'
+    description:
+        label: 'Keynote Description'
+        type: text
+        searchable: true
+        sortable: true

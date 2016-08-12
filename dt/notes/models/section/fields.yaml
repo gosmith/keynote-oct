@@ -1,0 +1,11 @@
+fields:
+    number:
+        label: 'Spec Number'
+        oc.commentPosition: ''
+        span: left
+        type: text
+    name:
+        label: 'Spec Name'
+        span: left
+        oc.commentPosition: ''
+        type: text

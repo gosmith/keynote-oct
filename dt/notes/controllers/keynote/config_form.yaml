@@ -1,0 +1,11 @@
+name: Keynote
+modelClass: Dt\Notes\Models\Keynote
+form: $/dt/notes/models/keynote/fields.yaml
+defaultRedirect: dt/notes/keynote
+create:
+    redirect: 'dt/notes/keynote/update/:id'
+    redirectClose: dt/notes/keynote
+update:
+    redirect: dt/notes/keynote
+    redirectClose: dt/notes/keynote
+preview: {  }

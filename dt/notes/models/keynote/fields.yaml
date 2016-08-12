@@ -1,0 +1,16 @@
+fields:
+    number:
+        label: 'Keynote Number'
+        oc.commentPosition: ''
+        span: left
+        type: text
+    description:
+        label: 'Keynote Description'
+        span: left
+        size: ''
+        oc.commentPosition: ''
+        type: textarea
+    section:
+        label: 'Spec Section'
+        span: left
+        type: relation
